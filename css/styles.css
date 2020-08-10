@@ -1,0 +1,332 @@
+body{
+  margin:0;
+}
+h1{
+  margin: 0;
+  position: relative;
+  text-align: center;
+  margin-bottom: 40px;
+}
+h2{
+  margin: 0;
+  position: relative;
+  text-align: center;
+  }
+.container-1{
+  background-color: #005086;
+  margin: 0;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+.container-2{
+  background-color: #f7d6bf;
+  margin:0;
+  padding:50px;
+}
+.container-3{
+  background-color: #b0cac7;
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.container-4{
+  background-color: #f7d6bf;
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.container-5{
+  background-color: #b0cac7;
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.container-6{
+  background-color: #f7d6bf;
+  margin:0;
+  padding:50px;
+}
+.font-main{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 60px;
+  color: white;
+}
+.font-Liceniado{
+  font-family: 'Antic';font-size: 25px;
+  text-align: center;
+}
+.img_world{
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Lucas_Pic{
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+.sections{
+  font-family: 'Yanone Kaffeesatz', sans-serif; font-size: 35px;
+}
+.paragrah_sec{
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Antic';font-size: 18px;
+}
+.titulo{
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Antic';font-size: 18px;
+  margin-bottom: 2px;
+}
+.titulo1{
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Antic';font-size: 20px;
+  margin-bottom: 2px;
+  margin-top: 5px;
+  color: white;
+}
+.organizacion{
+  font-family: 'Antic';font-size: 15px;
+  text-align: center;
+  margin-top: 2px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 2px;
+}
+.descripcion_trab{
+    font-family: 'Antic';font-size: 15px;
+    text-align: center;
+    margin-top: 2px;
+    padding-left: 0;
+    padding-right: 20px;
+    margin-bottom: 2px;
+}
+.boxx{
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+  position:absolute;
+}
+.button0{
+  margin-right: 5px;
+  margin-top: 20px;
+  padding: 10px;
+  height: 20px;
+  width: 90px;
+  text-align: center;
+  font-family: 'Antic';font-size: 15px;
+  position: fixed;
+  right:0;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+}
+.button{
+  margin-right: 5px;
+  margin-top: 60px;
+  padding: 10px;
+  height: 20px;
+  width: 90px;
+  text-align: center;
+  font-family: 'Antic';font-size: 15px;
+  position: fixed;
+  right:0;
+  background-color: white;
+  text-decoration: none;
+  color: black;
+}
+.button1{
+  margin-right: 5px;
+  margin-top: 100px;
+  padding: 10px;
+  height: 20px;
+  width: 90px;
+  text-align: center;
+  font-family: 'Antic';font-size: 15px;
+  position: fixed;
+  right:0;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+}
+.button2{
+  margin-right: 5px;
+  margin-top: 140px;
+  padding: 10px;
+  height: 20px;
+  width: 90px;
+  text-align: center;
+  font-family: 'Antic';font-size: 15px;
+  position: fixed;
+  right:0;
+  background-color: white;
+  text-decoration: none;
+  color: black;
+}
+.button3{
+  margin-right: 5px;
+  margin-top: 180px;
+  padding: 10px;
+  height: 20px;
+  width: 90px;
+  text-align: center;
+  font-family: 'Antic';font-size: 15px;
+  position: fixed;
+  right:0;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+}
+.button4{
+  margin-right: 5px;
+  margin-top: 220px;
+  padding: 10px;
+  height: 20px;
+  width: 90px;
+  text-align: center;
+  font-family: 'Antic';font-size: 15px;
+  position: fixed;
+  right:0;
+  background-color: white;
+  text-decoration: none;
+  color: black;
+}
+.Skateboard{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+}
+.swim{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+}
+.snow{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 70px;
+  width: 70px;
+}
+.prog{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+}
+.guitar{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+}
+.surf{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+}
+.motorcycle{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+}
+
+.Contacto{
+  font-family: 'Yanone Kaffeesatz', sans-serif; font-size: 35px;
+  color: white;
+}
+.inline{
+  display: inline-block;
+}
+.inline1{
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+.cell{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 50px;
+  width: 50px;
+}
+.whatsapp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 50px;
+  width: 50px;
+}
+.linkedin{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 50px;
+  width: 50px;
+}
+.instagram{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 50px;
+  width: 50px;
+}
+.correo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 50px;
+  width: 50px;
+}
+.font-end{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 35px;
+  color: white;
+  margin-top: 5px;
+}
+.B{
+  font-family: 'Coustard', serif; font-size: 45px;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+.container-end{
+  background-color: #005086;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
